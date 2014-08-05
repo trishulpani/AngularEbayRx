@@ -1,0 +1,16 @@
+/* app css stylesheet */
+body {
+	background-color: rgb(249, 248, 249);
+}
+
+#main {
+	background-color: #f7f5ee;
+}
+
+#veil {
+	
+	width: 100%;
+	cursor: not-allowed;
+	background: #f7f5ee url('../img/loader.gif') no-repeat center;
+
+}
